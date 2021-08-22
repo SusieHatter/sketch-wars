@@ -1,0 +1,10 @@
+body,
+html,
+.page,
+.content {
+  height: 100%;
+}
+
+body {
+  padding-top: 56px; /* For navbar at top */
+}
